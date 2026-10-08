@@ -1,1 +1,4 @@
 Position/
+test_data.npz
+train_data.npz
+val_data.npz
